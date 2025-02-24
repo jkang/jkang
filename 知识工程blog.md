@@ -131,6 +131,7 @@ Thoughtworks推出的Haiven™平台，为企业提供了一站式的Team AI构�
 这些Agent协同工作，形成了一个完整的需求分析流程。
 
 **【配图：PPT第15页 - Team Evolve | 异界 示意图】**
+**【配图：PPT第17页 - 知识闭环示意图】**
 
 ##### **知识工程闭环**
 
@@ -146,13 +147,12 @@ Thoughtworks推出的Haiven™平台，为企业提供了一站式的Team AI构�
 5.  **知识更新：** 知识运营官/工程师根据AI的建议，对知识库进行更新和维护。
 6.  **持续迭代：** 更新后的知识库再次被Agent使用，形成一个持续改进的闭环。
 
-**【配图：PPT第17页 - 知识闭环示意图】**
-output2.mp4
+[output2.mp4](https://github.com/jkang/jkang/blob/193395c217233c64bba4934afa9fe9d266e7abb0/output2.mp4)
 
 ##### **实施TeamAI和知识工程的价值成效**
 
 
----
+
 
 ### **三、2025年行动指南：落地研发知识工程的三大关键**
 
